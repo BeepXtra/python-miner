@@ -5,3 +5,4 @@ gmpy2==2.1.2
 PySimpleGUI==4.60.4
 requests==2.22.0
 urllib3==1.25.8
+argon2==0.1.10
