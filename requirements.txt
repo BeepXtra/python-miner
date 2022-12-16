@@ -1,0 +1,7 @@
+argon2-cffi==21.3.0
+base58==2.1.1
+chardet==3.0.4
+gmpy2==2.1.2
+PySimpleGUI==4.60.4
+requests==2.22.0
+urllib3==1.25.8
