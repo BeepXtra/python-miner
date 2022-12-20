@@ -1,4 +1,4 @@
 publickey=[PUBLIC KEY]
 privatekey=[PRIVATE KEY]
-node=[NODE]
-steroidtype=[TYPE]
+node=mine
+steroidtype=solo
