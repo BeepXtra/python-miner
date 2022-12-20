@@ -7,7 +7,7 @@ ___
 2. Windows OS setup
 ___
 
-### 1. Linux OS Setup
+### 1. Linux (Ubuntu) OS Setup
 #### Step 1: Download and install SMiner
 * Open your terminal (If you have a desktop linux system. If you are running server edition, skip this step)
 * Copy and paste the following and hit enter:
@@ -20,6 +20,7 @@ sudo apt-get install python3-venv && sudo mkdir /home/sminer && cd /home/sminer 
 ```
 sudo pip install -r requirements.txt
 ```
+_Note! If you don't have pip installed, use this command: ```sudo apt-get install python-pip```
 
 #### Step 3: Start your miner
 * To start the miner, run this command in terminal:
