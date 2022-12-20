@@ -12,7 +12,7 @@ ___
 * Open your terminal (If you have a desktop linux system. If you are running server edition, skip this step)
 * Copy and paste the following and hit enter:
 ```
-sudo apt-get install python3-venv && sudo mkdir /home/sminer && cd /home/sminer && sudo git clone https://github.com/BeepXtra/python-miner.git && cd python-miner/ && sudo python3 -m venv venv && source venv/bin/activate
+sudo mkdir /home/sminer && cd /home/sminer && sudo git clone https://github.com/BeepXtra/python-miner.git && cd python-miner/
 ```
 #### Step 2: Prepare your miner
 * Edit the config.txt file and replace [VALUES] with your own wallet details and save it
@@ -27,8 +27,6 @@ _Note! If you don't have pip installed, use this command: ```sudo apt-get instal
 ```
 python /home/sminer/python-miner/main.py
 ```
-
-_Note! Before your start your miner, check that you have the correct venv active. if you need to activate run this command: ```source /home/sminer/venv/bin/activate```
 
 #### Step 4: (Optional) Auto-start miner on boot
 * Edit your cronjobs
