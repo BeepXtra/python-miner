@@ -25,7 +25,7 @@ _Note! If you don't have pip installed, use this command: ```sudo apt-get instal
 #### Step 3: Start your miner
 * To start the miner, run this command in terminal:
 ```
-python3 /home/sminer/main.py
+python3 /home/sminer/python-miner/main.py
 ```
 
 _Note! Before your start your miner, check that you have the correct venv active. if you need to activate run this command: ```source /home/sminer/venv/bin/activate```
